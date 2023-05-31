@@ -1,16 +1,4 @@
-﻿                                                        /****************************************************************************
-                                                        ** SAKARYA ÜNİVERSİTESİ
-                                                        ** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-                                                        ** BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-                                                        ** PROGRAMLAMAYA GİRİŞİ DERSİ
-                                                        **
-                                                        ** ÖDEV NUMARASI…...:1
-                                                        ** ÖĞRENCİ ADI...............:EFSANE SİNANOĞLU
-                                                        ** ÖĞRENCİ NUMARASI.:G221210034
-                                                        ** DERS GRUBU…………:B
-                                                        YOUTUBE LİNKİ… …:https://www.youtube.com/watch?v=lOvNEvvlP7Y
-                                                        ****************************************************************************/
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
